@@ -1,4 +1,4 @@
-# remotion-audio-visualizers
+# Remotion Audio Visualizers
 
 # [Live demo](https://o1b60.csb.app/)
 
