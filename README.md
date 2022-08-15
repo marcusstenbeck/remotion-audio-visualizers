@@ -1,2 +1,6 @@
 # remotion-audio-visualizers
-Created with CodeSandbox
+
+## Quick start
+
+1. `npm install`
+2. `npm start`
