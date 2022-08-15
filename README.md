@@ -1,6 +1,6 @@
 # Remotion Audio Visualizers
 
-# [Live demo](https://o1b60.csb.app/)
+# [Live demo 🔗](https://o1b60.csb.app/)
 
 <img width="1510" alt="image" src="https://user-images.githubusercontent.com/616906/184626982-3363d5a2-21b5-48d5-8274-379bd4bd8820.png">
 
